@@ -1,0 +1,74 @@
+C:\Users\ventr\source\repos\dz11\bin\Debug\dz11.exe.config
+C:\Users\ventr\source\repos\dz11\bin\Debug\dz11.exe
+C:\Users\ventr\source\repos\dz11\bin\Debug\dz11.pdb
+C:\Users\ventr\source\repos\dz11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\Npgsql.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Buffers.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Memory.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Text.Json.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Threading.Channels.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.ValueTuple.dll
+C:\Users\ventr\source\repos\dz11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\Npgsql.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Buffers.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Memory.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Text.Json.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Threading.Channels.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ventr\source\repos\dz11\bin\Debug\System.ValueTuple.xml
+C:\Users\ventr\source\repos\dz11\obj\Debug\dz11.csproj.AssemblyReference.cache
+C:\Users\ventr\source\repos\dz11\obj\Debug\dz11.csproj.SuggestedBindingRedirects.cache
+C:\Users\ventr\source\repos\dz11\obj\Debug\dz11.csproj.CoreCompileInputs.cache
+C:\Users\ventr\source\repos\dz11\obj\Debug\dz11.csproj.CopyComplete
+C:\Users\ventr\source\repos\dz11\obj\Debug\dz11.exe
+C:\Users\ventr\source\repos\dz11\obj\Debug\dz11.pdb
+C:\Users\masta\OneDrive\Рабочий стол\dz11\obj\Debug\dz11.csproj.AssemblyReference.cache
+C:\Users\masta\OneDrive\Рабочий стол\dz11\obj\Debug\dz11.csproj.SuggestedBindingRedirects.cache
+C:\Users\masta\OneDrive\Рабочий стол\dz11\obj\Debug\dz11.csproj.CoreCompileInputs.cache
+C:\Users\masta\OneDrive\Рабочий стол\dz11\obj\Debug\dz11.exe
+C:\Users\masta\OneDrive\Рабочий стол\dz11\obj\Debug\dz11.pdb
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\dz11.exe.config
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\dz11.exe
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\dz11.pdb
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\Npgsql.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Buffers.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Collections.Immutable.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Memory.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Text.Json.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Threading.Channels.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.ValueTuple.dll
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\Npgsql.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Buffers.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Collections.Immutable.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Memory.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Text.Json.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Threading.Channels.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\bin\Debug\System.ValueTuple.xml
+C:\Users\masta\OneDrive\Рабочий стол\dz11\obj\Debug\dz11.csproj.CopyComplete
