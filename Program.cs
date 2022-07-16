@@ -14,7 +14,7 @@ namespace dz11
         {
             
             Sql sql = new Sql();
-            sql.Connected(new Insert());
+            sql.Connected(new Search());
             //sql.Connected(new Select_All());
 
             //sql.Connected(new Insert());

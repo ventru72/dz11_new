@@ -19,6 +19,7 @@ namespace dz11
         public Columns() { }
         public void Initialization()
         {
+           
             Console.WriteLine("Введите имя: ");
             First_Name = Console.ReadLine();
 
@@ -33,6 +34,7 @@ namespace dz11
 
             Console.WriteLine("Введите номер родительского отдела:");
             Depatment_parent_id = Convert.ToInt32(Console.ReadLine());
+            
         }
     }
     class Department: Columns

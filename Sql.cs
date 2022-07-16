@@ -29,10 +29,11 @@ namespace dz11
     }
     public class Search : Columns, IRequest
     {
+
         public string Request()
         {
-            string request = $"SELECT ( department_id ) FROM department" +
-                $"WHERE department_id = {Depatment_id}";
+            string request = $"SELECT  department_id  FROM department" +
+                $"WHERE department_id > 1";
             return request;
         }
     }
@@ -45,7 +46,7 @@ namespace dz11
             return request;
         }
     }
-    public class Insert : IRequest
+    public class Insert_new_dep : IRequest
     {
         public string Request()
         {
@@ -57,6 +58,17 @@ namespace dz11
                 "VALUES (@f_name, @l_name, @dep_id, @sal_id);";
             return request;
             
+        }
+    }
+    public class Insert : IRequest
+    {
+        public string Request()
+        {
+
+            string request = "INSERT INTO workers (first_name, last_name, department_id, salary_id )" +
+                "VALUES (@f_name, @l_name, @dep_id, @sal_id);";
+            return request;
+
         }
     }
 
@@ -85,8 +97,10 @@ namespace dz11
             //Sparam = new NpgsqlParameter("@t_worker", worker.Type_Worker);
             //cmd.Parameters.Add(Sparam);
             cmd.ExecuteNonQuery();
-            if (request.GetType() == new Select_All().GetType())
+            void Select_All()
             {
+                if(request.GetType() == new Select_All().GetType())
+                {
                 List<Worker> list = new List<Worker>();
                 using (var reader = cmd.ExecuteReader())
                 {
@@ -94,7 +108,7 @@ namespace dz11
                     {
 
                         //Console.WriteLine("{0} {1} ", reader.GetInt32(0), reader.GetInt32(1));
-                       
+
                         worker.Worker_id = reader.GetInt32(0);
                         worker.First_Name = reader.GetString(1);
                         worker.Last_Name = reader.GetString(2);
@@ -111,20 +125,37 @@ namespace dz11
                 }
                 Console.ReadKey();
             }
-            else if (request.GetType() == new Search().GetType())
+            }
+            Select_All();
+            void Search()
             {
-                using (var reader = cmd.ExecuteReader())
+                if(request.GetType() == new Search().GetType())
+                {
+                    using (var reader = cmd.ExecuteReader())
                 {
                     while (reader.Read())
-                    {  
-                       if( worker.Depatment_id == reader.GetInt32(0))
+                    {
+                        if (worker.Depatment_id != reader.GetInt32(0))
                         {
-
-                        } 
-                            
+                            Console.WriteLine("Отдел с таким номером не найден.\n" +
+                                "Нажмите 'y' если хотите создать новый отдел.");
+                            if (Console.ReadLine() == "y" || Console.ReadLine() == "н")
+                            {
+                                Insert_new_dep insert_New_Dep = new Insert_new_dep();
+                                insert_New_Dep.Request();
+                            }
+                            else
+                            {
+                                Insert insert = new Insert();
+                                insert.Request();
+                            }
+                        }
                     }
                 }
             }
+            }
+            Search();
+
 
             con.Close();
         }
